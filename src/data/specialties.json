@@ -1,0 +1,98 @@
+[
+  {
+    "id": "mg",
+    "slug": "medicina-general",
+    "nombre": "Medicina general",
+    "descripcionCorta": "Atención primaria integral para adultos con enfoque preventivo.",
+    "descripcion": "Medicina familiar y general con seguimiento longitudinal, detección temprana y coordinación con especialistas cuando lo necesitas.",
+    "icon": "stethoscope",
+    "filtros": ["Todas", "Adultos", "Preventivo"],
+    "tratamientos": ["Chequeos anuales", "Control de crónicos", "Vacunación adultos", "Certificados médicos"],
+    "imagen": "https://images.unsplash.com/photo-1579684385127-1ef15d5081de?auto=format&fit=crop&w=900&q=80",
+    "doctorIds": ["d1", "d2"]
+  },
+  {
+    "id": "ped",
+    "slug": "pediatria",
+    "nombre": "Pediatría",
+    "descripcionCorta": "Crecimiento sano, vacunas y urgencias pediátricas con calidez.",
+    "descripcion": "Acompañamos desde el recién nacido hasta la adolescencia con protocolos actualizados y un consultorio pensado para familias.",
+    "icon": "child",
+    "filtros": ["Todas", "Niños", "Preventivo", "Urgencias"],
+    "tratamientos": ["Control del niño sano", "Vacunación", "Urgencias leves", "Nutrición infantil"],
+    "imagen": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=80",
+    "doctorIds": ["d3", "d4"]
+  },
+  {
+    "id": "ort",
+    "slug": "ortopedia",
+    "nombre": "Ortopedia",
+    "descripcionCorta": "Movilidad, lesiones deportivas y columna con plan claro.",
+    "descripcion": "Evaluación biomecánica, manejo conservador y cirugía cuando es la mejor opción, siempre explicada con tiempo.",
+    "icon": "bone",
+    "filtros": ["Todas", "Adultos", "Urgencias"],
+    "tratamientos": ["Artrosis", "Lesiones deportivas", "Columna", "Rehabilitación guiada"],
+    "imagen": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=900&q=80",
+    "doctorIds": ["d5"]
+  },
+  {
+    "id": "odo",
+    "slug": "odontologia",
+    "nombre": "Odontología",
+    "descripcionCorta": "Estética, funcionalidad y confort con tecnología 3D.",
+    "descripcion": "Departamento dental integral: prevención, ortodoncia, implantes y rehabilitaciones con microscopía y CAD/CAM.",
+    "icon": "tooth",
+    "filtros": ["Todas", "Adultos", "Niños", "Preventivo"],
+    "tratamientos": ["Limpieza y prevención", "Ortodoncia", "Implantes", "Estética dental"],
+    "imagen": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=900&q=80",
+    "doctorIds": ["d6", "d7", "d8"]
+  },
+  {
+    "id": "car",
+    "slug": "cardiologia",
+    "nombre": "Cardiología",
+    "descripcionCorta": "Corazón y vasos con estudios en sitio y lectura experta.",
+    "descripcion": "Prevención cardiovascular, arritmias, hipertensión e isquemia con ecocardiografía y monitoreo ambulatorio.",
+    "icon": "heart",
+    "filtros": ["Todas", "Adultos", "Preventivo"],
+    "tratamientos": ["ECG y holter", "Ecocardiograma", "Riesgo cardiovascular", "Rehabilitación cardiaca"],
+    "imagen": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=900&q=80",
+    "doctorIds": ["d9"]
+  },
+  {
+    "id": "gin",
+    "slug": "ginecologia",
+    "nombre": "Ginecología",
+    "descripcionCorta": "Salud femenina en todas las etapas, con enfoque humano.",
+    "descripcion": "Bienestar ginecológico, embarazo de bajo riesgo, planificación familiar y menopausia con tiempo de escucha.",
+    "icon": "flower",
+    "filtros": ["Todas", "Adultos", "Preventivo"],
+    "tratamientos": ["Papanicolaou", "Control prenatal", "Anticoncepción", "Climaterio"],
+    "imagen": "https://images.unsplash.com/photo-1551601651-2a8555f1a136?auto=format&fit=crop&w=900&q=80",
+    "doctorIds": ["d10"]
+  },
+  {
+    "id": "neu",
+    "slug": "neurologia",
+    "nombre": "Neurología",
+    "descripcionCorta": "Cefalea, memoria, movimiento y sueño con diagnóstico preciso.",
+    "descripcion": "Evaluación neurológica completa, EEG, videonistagmografía y manejo de migraña, vértigo y neurodegeneración temprana.",
+    "icon": "brain",
+    "filtros": ["Todas", "Adultos"],
+    "tratamientos": ["Migraña", "Vértigo", "Parkinson temprano", "Neuropatías"],
+    "imagen": "https://images.unsplash.com/photo-1551190822-a9333d879b1f?auto=format&fit=crop&w=900&q=80",
+    "doctorIds": ["d11"]
+  },
+  {
+    "id": "nut",
+    "slug": "nutricion",
+    "nombre": "Nutrición",
+    "descripcionCorta": "Planes realistas, sin modas; laboratorio y seguimiento.",
+    "descripcion": "Nutrición clínica y deportiva con composición corporal, educación alimentaria y cocina práctica.",
+    "icon": "apple",
+    "filtros": ["Todas", "Adultos", "Niños", "Preventivo"],
+    "tratamientos": ["Sobrepeso", "Diabetes", "Embarazo", "Rendimiento deportivo"],
+    "imagen": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80",
+    "doctorIds": ["d12"]
+  }
+]

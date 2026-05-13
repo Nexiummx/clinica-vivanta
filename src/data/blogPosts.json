@@ -1,0 +1,158 @@
+[
+  {
+    "id": "b1",
+    "slug": "5-senales-de-que-necesitas-revisar-tu-corazon",
+    "titulo": "5 señales de que necesitas revisar tu corazón",
+    "extracto": "No todas las alertas son dolor en el pecho. Estas señales suelen minimizarse y merecen valoración.",
+    "categoria": "Prevención",
+    "autor": { "nombre": "Dr. Andrés Delgado", "slug": "dr-andres-delgado", "foto": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=200&q=80", "bio": "Cardiólogo en Vivanta. Divulgación con rigor clínico." },
+    "fecha": "2025-03-12",
+    "tiempoLectura": 8,
+    "imagen": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1600&q=80",
+    "destacado": true,
+    "blocks": [
+      { "type": "paragraph", "text": "El corazón suele advertir antes de un evento mayor. El reto es que los síntomas se confunden con ansiedad, acidez o falta de forma física. Aquí van cinco señales que vale la pena discutir con un cardiólogo, aunque no duelan." },
+      { "type": "h2", "text": "1. Fatiga nueva, sin causa clara" },
+      { "type": "paragraph", "text": "Si antes subías las escaleras sin problema y ahora necesitas detenerte, o duermes más horas pero amanecemos igual de cansados, puede haber disminución del gasto cardíaco o arritmia intermitente." },
+      { "type": "h2", "text": "2. Hinchazón de tobillos al final del día" },
+      { "type": "paragraph", "text": "No todo edema es cardíaco, pero cuando es simétrico, se acompaña de aumento de peso en pocos días o falta de aire al recostarse, merece electrocardiograma y ecocardiograma." },
+      { "type": "quote", "text": "Escuchar al paciente toma el mismo tiempo que pedir un estudio de más. La diferencia es que uno orienta y el otro solo tranquiliza por un rato." },
+      { "type": "h2", "text": "3. Palpitaciones con mareo" },
+      { "type": "paragraph", "text": "Extrasístoles aisladas son frecuentes y benignas en muchas personas. Palpitaciones sostenidas con inestabilidad, síncope o dolor sí requieren estudio formal." },
+      { "type": "ul", "items": ["Holter de 24–48 h según sospecha", "Electrolitos y tiroides", "Ecocardiograma si hay factores de riesgo"] },
+      { "type": "figure", "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80", "caption": "Monitoreo ambulatorio ayuda a correlacionar síntomas con ritmo." },
+      { "type": "h2", "text": "4. Dolor en mandíbula o brazo izquierdo al esfuerzo" },
+      { "type": "paragraph", "text": "La isquemia no siempre se siente como película. A veces es quemazon leve, sensación de indigestión o malestar en brazo al caminar cuesta arriba que cede al detenerse." },
+      { "type": "h2", "text": "5. Historial familiar fuerte" },
+      { "type": "paragraph", "text": "Infarto prematuro en padres o hermanos, colesterol muy alto desde joven o diabetes mal controlada son razones válidas para adelantar chequeo aun sin síntomas." }
+    ]
+  },
+  {
+    "id": "b2",
+    "slug": "vacunas-que-tu-adolescente-no-debe-posponer",
+    "titulo": "Vacunas que tu adolescente no debe posponer",
+    "extracto": "El calendario no termina en la infancia temprana. Estas dosis protegen en secundaria y universidad.",
+    "categoria": "Pediatría",
+    "autor": { "nombre": "Dra. Carmen Ibarra", "slug": "dra-carmen-ibarra", "foto": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&w=200&q=80", "bio": "Pediatra en Vivanta." },
+    "fecha": "2025-02-28",
+    "tiempoLectura": 5,
+    "imagen": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=1600&q=80",
+    "destacado": false,
+    "blocks": [
+      { "type": "paragraph", "text": "La adolescencia es ventana de refuerzos y vacunas que evitan cáncer, tétanos difíciles y brotes en aulas. Agenda con calma, sin culpas." },
+      { "type": "h2", "text": "HPV y refuerzos" },
+      { "type": "paragraph", "text": "Completa esquemas iniciados y verifica dTpa según calendario local. Tu pediatra cruza alergias y cronología." }
+    ]
+  },
+  {
+    "id": "b3",
+    "slug": "alimentacion-intuitiva-sin-caos-metabolico",
+    "titulo": "Alimentación intuitiva sin caos metabólico",
+    "extracto": "Cómo combinar escucha corporal con números cuando hay diabetes o resistencia a la insulina.",
+    "categoria": "Nutrición",
+    "autor": { "nombre": "Nut. Irene Martínez", "slug": "nut-irene-martinez", "foto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=80", "bio": "Nutrióloga clínica." },
+    "fecha": "2025-02-10",
+    "tiempoLectura": 7,
+    "imagen": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1600&q=80",
+    "destacado": false,
+    "blocks": [
+      { "type": "paragraph", "text": "No tienes que elegir entre rigidez y abandono. Existe un camino con monitoreo prudente y flexibilidad." },
+      { "type": "quote", "text": "La culpa no mejora el hemoglobina glucosilada. Mejoran los hábitos sostenibles." }
+    ]
+  },
+  {
+    "id": "b4",
+    "slug": "sueno-en-ninos-de-6-a-12-anos",
+    "titulo": "Sueño en niños de 6 a 12 años: qué es normal",
+    "extracto": "Horarios, pantallas y miedos nocturnos. Guía breve para padres ocupados.",
+    "categoria": "Familia",
+    "autor": { "nombre": "Dr. Miguel Soto", "slug": "dr-miguel-soto", "foto": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=200&q=80", "bio": "Pediatra Vivanta." },
+    "fecha": "2025-01-22",
+    "tiempoLectura": 6,
+    "imagen": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=1600&q=80",
+    "destacado": false,
+    "blocks": [{ "type": "paragraph", "text": "Rutinas cortas pero constantes baten a regaños largos. Apaga pantallas 60–90 min antes." }]
+  },
+  {
+    "id": "b5",
+    "slug": "migrana-y-pantalla-habitos-que-si-funcionan",
+    "titulo": "Migraña y pantalla: hábitos que sí funcionan",
+    "extracto": "Luz azul no es el único culpable. Hablamos de postura, comidas saltadas y cafeína mal repartida.",
+    "categoria": "Salud mental",
+    "autor": { "nombre": "Dr. Fernando Ávalos", "slug": "dr-fernando-avalos", "foto": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=200&q=80", "bio": "Neurólogo Vivanta." },
+    "fecha": "2025-01-08",
+    "tiempoLectura": 6,
+    "imagen": "https://images.unsplash.com/photo-1545389336-cf090694435e?auto=format&fit=crop&w=1600&q=80",
+    "destacado": false,
+    "blocks": [{ "type": "paragraph", "text": "Diario de crisis y desencadenantes sigue siendo herramienta número uno antes de estudios caros." }]
+  },
+  {
+    "id": "b6",
+    "slug": "prevencion-cardiovascular-en-mujeres",
+    "titulo": "Prevención cardiovascular en mujeres",
+    "extracto": "Riesgo posmenopausia, síntomas atípicos y qué pedir en tu chequeo.",
+    "categoria": "Prevención",
+    "autor": { "nombre": "Dr. Andrés Delgado", "slug": "dr-andres-delgado", "foto": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=200&q=80", "bio": "Cardiólogo Vivanta." },
+    "fecha": "2024-12-15",
+    "tiempoLectura": 7,
+    "imagen": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=1600&q=80",
+    "destacado": false,
+    "blocks": [{ "type": "paragraph", "text": "El riesgo acelera tras la menopausia; integra presión arterial, lípidos y glucosa anuales si hay antecedentes." }]
+  },
+  {
+    "id": "b7",
+    "slug": "columna-sensible-cuando-volver-al-ejercicio",
+    "titulo": "Columna sensible: cuándo volver al ejercicio",
+    "extracto": "Señales de alarma versus molestia mecánica leve post esfuerzo.",
+    "categoria": "Prevención",
+    "autor": { "nombre": "Dr. Ricardo Mena", "slug": "dr-ricardo-mena", "foto": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?auto=format&fit=crop&w=200&q=80", "bio": "Ortopedista Vivanta." },
+    "fecha": "2024-11-30",
+    "tiempoLectura": 5,
+    "imagen": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1600&q=80",
+    "destacado": false,
+    "blocks": [{ "type": "paragraph", "text": "Progresión gradual y sueño adecuado reducen recurrencias de lumbalgia inespecífica." }]
+  },
+  {
+    "id": "b8",
+    "slug": "salud-hormonal-en-la-perimenopausia",
+    "titulo": "Salud hormonal en la perimenopausia",
+    "extracto": "Ciclos irregulares, calores y cambios de ánimo: cuándo es fisiológico y cuándo investigar.",
+    "categoria": "Familia",
+    "autor": { "nombre": "Dra. Paola Reyes", "slug": "dra-paola-reyes", "foto": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=200&q=80", "bio": "Ginecóloga Vivanta." },
+    "fecha": "2024-11-12",
+    "tiempoLectura": 6,
+    "imagen": "https://images.unsplash.com/photo-1551601651-2a8555f1a136?auto=format&fit=crop&w=1600&q=80",
+    "destacado": false,
+    "blocks": [{ "type": "paragraph", "text": "Sangrados abundantes o intermenstruales merecen ecografía y valoración ginecológica." }]
+  },
+  {
+    "id": "b9",
+    "slug": "blanqueamiento-dental-expectativas-realistas",
+    "titulo": "Blanqueamiento dental: expectativas realistas",
+    "extracto": "Tonos base, sensibilidad y mantenimiento en casa sin promesas mágicas.",
+    "categoria": "Prevención",
+    "autor": { "nombre": "Dra. Elena Fuentes", "slug": "dra-elena-fuentes", "foto": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&w=200&q=80", "bio": "Odontóloga Vivanta." },
+    "fecha": "2024-10-20",
+    "tiempoLectura": 4,
+    "imagen": "https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=1600&q=80",
+    "destacado": false,
+    "blocks": [{ "type": "paragraph", "text": "El blanqueamiento no cambia la forma de los dientes ni tapa fracturas; combina con restauraciones si hace falta." }]
+  },
+  {
+    "id": "b10",
+    "slug": "como-leer-un-perfil-de-laboratorio-basico",
+    "titulo": "Cómo leer un perfil de laboratorio básico",
+    "extracto": "Glóbulos rojos, plaquetas y química: qué mirar antes de googlear.",
+    "categoria": "Nutrición",
+    "autor": { "nombre": "Dra. Ana Villaseñor", "slug": "dra-ana-villasenor", "foto": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=200&q=80", "bio": "Médica general Vivanta." },
+    "fecha": "2024-10-02",
+    "tiempoLectura": 9,
+    "imagen": "https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=1600&q=80",
+    "destacado": false,
+    "blocks": [
+      { "type": "paragraph", "text": "Un resultado fuera de rango no siempre es enfermedad. Contexto clínico manda." },
+      { "type": "h2", "text": "Serie roja" },
+      { "type": "paragraph", "text": "Hemoglobina baja con volumen corpuscular guía hacia ferropenia vs otras causas." }
+    ]
+  }
+]

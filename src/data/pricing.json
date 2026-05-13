@@ -1,0 +1,49 @@
+{
+  "consultas": [
+    { "especialidad": "Medicina general", "primera": 850, "subsecuente": 650, "urgencia": 1200 },
+    { "especialidad": "Pediatría", "primera": 900, "subsecuente": 700, "urgencia": 1300 },
+    { "especialidad": "Ortopedia", "primera": 1100, "subsecuente": 900, "urgencia": 1500 },
+    { "especialidad": "Odontología", "primera": 600, "subsecuente": 600, "urgencia": 900 },
+    { "especialidad": "Cardiología", "primera": 1400, "subsecuente": 1100, "urgencia": 1900 },
+    { "especialidad": "Ginecología", "primera": 1000, "subsecuente": 800, "urgencia": 1400 },
+    { "especialidad": "Neurología", "primera": 1300, "subsecuente": 1000, "urgencia": 1800 },
+    { "especialidad": "Nutrición", "primera": 800, "subsecuente": 700, "urgencia": 1000 }
+  ],
+  "estudios": [
+    { "nombre": "Biometría hemática completa", "precio": 450, "descripcion": "Serie roja, blanca y plaquetas con diferencial." },
+    { "nombre": "Química sanguínea básica", "precio": 680, "descripcion": "Glucosa, urea, creatinina, electrolitos." },
+    { "nombre": "Ultrasonido abdominal", "precio": 1200, "descripcion": "Reporte digital y lectura por radiólogo asociado." },
+    { "nombre": "Rayos X 2 incidencias", "precio": 550, "descripcion": "Tórax o extremidad según indicación médica." },
+    { "nombre": "Electrocardiograma en reposo", "precio": 400, "descripcion": "Trazado de 12 derivaciones con interpretación." },
+    { "nombre": "Prueba de esfuerzo", "precio": 2800, "descripcion": "Incluye monitoreo y valoración cardiológica." },
+    { "nombre": "Holter 24 h", "precio": 1900, "descripcion": "Instalación, retiro y reporte." },
+    { "nombre": "Densitometría ósea", "precio": 1500, "descripcion": "Columna y cadera según protocolo." },
+    { "nombre": "Papanicolaou", "precio": 650, "descripcion": "Toma, fijación y laboratorio certificado." }
+  ],
+  "paquetes": [
+    {
+      "id": "prev-adulto",
+      "nombre": "Chequeo preventivo adulto",
+      "precio": 1990,
+      "descripcion": "Ideal si no tienes síntomas y quieres línea base.",
+      "items": ["Consulta medicina general", "Biometría hemática", "Química básica", "ECG", "Guía de resultados"],
+      "destacado": false
+    },
+    {
+      "id": "ped-anual",
+      "nombre": "Control pediátrico anual",
+      "precio": 2490,
+      "descripcion": "Vacunas no incluidas; cotización aparte según esquema.",
+      "items": ["Consulta pediátrica", "Curva de crecimiento", "Valoración neurodesarrollo", "Orientación nutricional", "Certificado escolar"],
+      "destacado": true
+    },
+    {
+      "id": "familia",
+      "nombre": "Programa salud familiar",
+      "precio": 5990,
+      "descripcion": "Hasta 4 integrantes en misma visita coordinada.",
+      "items": ["4 consultas de medicina general", "Descuento 15% en laboratorio", "Canal WhatsApp prioritario", "Recordatorios anuales"],
+      "destacado": false
+    }
+  ]
+}

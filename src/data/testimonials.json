@@ -1,0 +1,66 @@
+[
+  {
+    "id": "t1",
+    "quote": "Por fin un lugar donde no me siento apurada. La Dra. Villaseñor se tomó el tiempo de explicarme mis estudios.",
+    "nombre": "Mariana G.",
+    "contexto": "Medicina general",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=200&q=80",
+    "departamento": "general"
+  },
+  {
+    "id": "t2",
+    "quote": "El departamento dental es otro nivel: calmados, claros con costos y sin dolor innecesario.",
+    "nombre": "Roberto T.",
+    "contexto": "Odontología",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80",
+    "departamento": "dental"
+  },
+  {
+    "id": "t3",
+    "quote": "Mi hija dejó de temer al doctor. El consultorio pediátrico se siente humano, no de hospital.",
+    "nombre": "Lucía P.",
+    "contexto": "Pediatría",
+    "avatar": "https://images.unsplash.com/photo-1544725176-7c40e5a71d5f?auto=format&fit=crop&w=200&q=80",
+    "departamento": "general"
+  },
+  {
+    "id": "t4",
+    "quote": "Los precios en recepción coincidieron con lo que vi en la web. Eso ya es raro y lo valoro.",
+    "nombre": "Daniela M.",
+    "contexto": "Nutrición",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80",
+    "departamento": "general"
+  },
+  {
+    "id": "t5",
+    "quote": "Ortodoncia invisible sin drama. Sofía mostró simulación 3D antes de empezar.",
+    "nombre": "Andrea F.",
+    "contexto": "Odontología",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+    "departamento": "dental"
+  },
+  {
+    "id": "t6",
+    "quote": "El holter me lo explicaron con calma. Salí sabiendo qué hacer y qué vigilar.",
+    "nombre": "Jorge H.",
+    "contexto": "Cardiología",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+    "departamento": "general"
+  },
+  {
+    "id": "t7",
+    "quote": "Vacunas al día y sin filas eternas. Agendamos online y fue fluido.",
+    "nombre": "Karla R.",
+    "contexto": "Pediatría",
+    "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=200&q=80",
+    "departamento": "general"
+  },
+  {
+    "id": "t8",
+    "quote": "Implante y corona en tiempos claros. Pablo tiene mano fina para endodoncia.",
+    "nombre": "Héctor L.",
+    "contexto": "Odontología",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=200&q=80",
+    "departamento": "dental"
+  }
+]

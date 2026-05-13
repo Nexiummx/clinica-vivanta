@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root,
+  .vivanta-root {
+    --font-instrument: "Instrument Serif", Georgia, serif;
+    --font-geist: "Geist", "Inter", system-ui, sans-serif;
+    --font-geist-mono: "Geist Mono", ui-monospace, monospace;
+  }
+
+  html {
+    @apply scroll-smooth antialiased;
+  }
+
+  body {
+    @apply min-h-screen bg-viv-bg text-viv-text;
+    font-family: var(--font-geist), system-ui, sans-serif;
+    font-size: 16px;
+    line-height: 1.65;
+  }
+
+  a {
+    @apply text-inherit no-underline;
+  }
+}
+
+@supports not ((-webkit-backdrop-filter: blur(1px)) or (backdrop-filter: blur(1px))) {
+  .viv-glass-fallback {
+    background-color: rgba(255, 255, 255, 0.92) !important;
+  }
+}

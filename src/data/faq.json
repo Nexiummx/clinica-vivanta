@@ -1,0 +1,77 @@
+{
+  "general": [
+    { "q": "¿Necesito cita previa?", "a": "Sí. Trabajamos por agenda para respetar tiempos de consulta y evitar saturación en sala de espera. Puedes agendar en línea o por teléfono." },
+    { "q": "¿Aceptan seguros?", "a": "Trabajamos con las principales aseguradoras y también atención particular. En recepción validamos cobertura antes de tu cita." },
+    { "q": "¿Atienden urgencias?", "a": "Urgencias leves en horario extendido según especialidad. Emergencias vitales deben acudir a servicios de urgencias hospitalarias." },
+    { "q": "¿Cuánto cuesta una consulta?", "a": "Publicamos rangos orientativos en la sección Precios. El monto exacto depende de especialidad y si es primera vez o subsecuente." },
+    { "q": "¿Hacen estudios el mismo día?", "a": "Muchos estudios de imagen y laboratorio se pueden coordinar el mismo día si agendamos con anticipación." },
+    { "q": "¿Tienen estacionamiento?", "a": "Contamos con cajones para pacientes y opciones de estacionamiento cercano. En contacto enviamos indicaciones y mapa." }
+  ],
+  "dental": [
+    { "q": "¿Duele el blanqueamiento?", "a": "Usamos protocolos de desensibilización. Puede haber sensibilidad leve 24–48 h que controlamos con indicaciones claras." },
+    { "q": "¿Los implantes son el mismo día?", "a": "La cirugía de implante se agenda en bloque. La corona definitiva depende de integración ósea y caso clínico." },
+    { "q": "¿Atienden niños en dental?", "a": "Sí, con enfoque preventivo y tiempos cortos adaptados a edad." },
+    { "q": "¿Qué es anestesia consciente?", "a": "Relajación consciente con monitoreo para procedimientos largos o ansiedad. Evaluación médica previa incluida." },
+    { "q": "¿Aceptan ortodoncia en pagos?", "a": "Planes de tratamiento con mensualidades para brackets y alineadores, sujetos a contrato y enganche." },
+    { "q": "¿Usan radiografía digital?", "a": "Sí, dosis reducida y archivos digitales compartibles con otros especialistas si lo autorizas." }
+  ],
+  "pediatria": [
+    { "q": "¿Desde qué edad atienden?", "a": "Desde recién nacidos hasta 17 años, con protocolos de vacunación y desarrollo." },
+    { "q": "¿Puedo acompañar en todo momento?", "a": "Sí. Fomentamos presencia de un adulto de confianza durante exploración y vacunación." },
+    { "q": "¿Tienen vacunas privadas?", "a": "Disponemos de esquemas completos y refuerzos según calendario epidemiológico vigente." },
+    { "q": "¿Qué llevo a la primera cita?", "a": "Carnet de vacunación, estudios previos si existen y lista de medicamentos o alergias." }
+  ],
+  "medicinaGeneral": [
+    { "q": "¿Qué incluye el chequeo anual?", "a": "Exploración física, revisión de medicamentos, solicitud prudente de laboratorio básico y plan de vacunas según edad y riesgo." },
+    { "q": "¿Puedo tener médico de cabecera aquí?", "a": "Sí. Las mismas médicas siguen tu expediente y coordinan derivaciones internas." },
+    { "q": "¿Atienden gripe o infecciones leves?", "a": "Sí en horario de consulta externa. Fiebre alta o dificultad para respirar debe valorarse en urgencias hospitalarias." },
+    { "q": "¿Manejan certificados laborales?", "a": "Sí, con criterio clínico y sin prometer dictámenes fuera de evidencia." },
+    { "q": "¿Cómo pido recetas de mantenimiento?", "a": "En consulta o seguimiento programado; evitamos recetas sin evaluación por seguridad." },
+    { "q": "¿Hay telemedicina?", "a": "Para seguimiento de crónicos estables y lectura de resultados, previa valoración presencial." }
+  ],
+  "ortopedia": [
+    { "q": "¿Siempre me operarán?", "a": "No. Priorizamos fisioterapia, medicación e infiltraciones cuando hay buena evidencia." },
+    { "q": "¿Atienden fracturas recientes?", "a": "Valoración y yeso o férula según caso. Fracturas abiertas o con neurovascular comprometido van a urgencias hospitalarias." },
+    { "q": "¿Cuánto dura la primera consulta?", "a": "Reservamos tiempo para historia mecánica, exploración y explicación del plan." },
+    { "q": "¿Piden resonancia siempre?", "a": "Solo si cambia diagnóstico o tratamiento; te decimos por qué antes de ordenarla." },
+    { "q": "¿Trabajan con seguros?", "a": "Sí en modalidad aseguradora y particular; cobertura de prótesis depende de póliza." },
+    { "q": "¿Tienen fisioterapia en sitio?", "a": "Coordinamos con red aliada y seguimiento ortopédico en Vivanta." }
+  ],
+  "cardiologia": [
+    { "q": "¿Necesito ayunas para el ECG?", "a": "No. Llega con ropa cómodo y evita cafeína excesiva el día de la prueba si te lo indicamos." },
+    { "q": "¿Cuándo me ponen holter?", "a": "Cuando hay palpitaciones intermitentes o síncope sospechoso de arritmia, según criterio del cardiólogo." },
+    { "q": "¿La prueba de esfuerzo duele?", "a": "Es un esfuerzo progresivo supervisado. Se detiene ante síntomas o cambios en el trazado." },
+    { "q": "¿Manejan infarto previo?", "a": "Seguimiento secundario con medicación, rehabilitación y metas de riesgo; evento agudo en hospital." },
+    { "q": "¿Puedo hacer ecocardio el mismo día?", "a": "Según agenda del estudio; confirmamos al agendar." },
+    { "q": "¿Dan segunda opinión?", "a": "Sí, con estudios previos y resumen de tratamiento actual." }
+  ],
+  "ginecologia": [
+    { "q": "¿A qué edad hacer primer Papanicolaou?", "a": "Según guías vigentes y factores de riesgo; lo conversamos en consulta sin apuro." },
+    { "q": "¿Atienden embarazo de alto riesgo?", "a": "Bajo riesgo en Vivanta; complicaciones mayores se co-administran con hospital de referencia." },
+    { "q": "¿Colocan DIU?", "a": "Sí, hormonal y de cobre con evaluación previa y consentimiento informado." },
+    { "q": "¿Qué pasa si tengo sangrado intermenstrual?", "a": "Agenda valoración; puede requerir ecografía transvaginal según edad y antecedentes." },
+    { "q": "¿Hay espacio para pareja en consulta?", "a": "Sí cuando lo deseas, respetando privacidad en exploración." },
+    { "q": "¿Manejan climaterio con hormonas?", "a": "Opciones hormonales y no hormonales según beneficios, riesgos y preferencias." }
+  ],
+  "neurologia": [
+    { "q": "¿Siempre necesito resonancia?", "a": "No. La pedimos si el hallazgo cambia manejo o descarta urgencia." },
+    { "q": "¿Tratan migraña crónica?", "a": "Sí, con diario de crisis, prevención y rescates según guías." },
+    { "q": "¿Qué es videonistagmografía?", "a": "Estudio de movimientos oculares para vértigo periférico; lo canalizamos con laboratorio aliado." },
+    { "q": "¿Atienden Parkinson?", "a": "Seguimiento de etapas tempranas y ajuste fino de medicación; cirugía profunda en centro especializado." },
+    { "q": "¿Puedo conducir si tengo vértigo?", "a": "Depende del diagnóstico; te orientamos por escrito para licencia cuando aplica." },
+    { "q": "¿Hay EEG en fin de semana?", "a": "Principalmente entre semana; urgencias neurológicas a hospital." }
+  ],
+  "nutricion": [
+    { "q": "¿Me pondrán dieta mil calorías?", "a": "No usamos restricciones extremas sin supervisión médica; buscamos déficit sostenible." },
+    { "q": "¿Sirve para diabetes tipo 2?", "a": "Sí, con metas de glucosa, carbohidratos y educación en etiquetas." },
+    { "q": "¿Incluye suplementos?", "a": "Solo si hay déficit documentado o indicación clara; evitamos polivitamínicos innecesarios." },
+    { "q": "¿Puedo ir con mi familia?", "a": "Sí en consultas de educación alimentaria; el plan se adapta al hogar." },
+    { "q": "¿Cuántas sesiones necesito?", "a": "Típicamente 4–8 en el primer trimestre según meta y laboratorio." },
+    { "q": "¿Trabajan con deportistas?", "a": "Sí, con enfoque en rendimiento y recuperación, coordinado con medicina general." }
+  ],
+  "pagos": [
+    { "q": "¿Puedo pagar con tarjeta?", "a": "Aceptamos tarjeta, transferencia y efectivo en recepción." },
+    { "q": "¿Emiten factura?", "a": "Sí, CFDI al momento del pago con datos fiscales completos." },
+    { "q": "¿Los paquetes tienen vigencia?", "a": "Los paquetes preventivos tienen vigencia de 12 meses desde la compra salvo que se indique otro plazo." }
+  ]
+}
