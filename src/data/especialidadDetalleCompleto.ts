@@ -50,7 +50,7 @@ export const ESP_DETALLE: Record<string, EspDetalle> = {
       {
         title: "Plan y estudios",
         text: "Solo lo necesario, con costos orientativos antes de ordenar.",
-        img: U("photo-1579684385127-1ef15d5081de"),
+        img: U("photo-1576091160550-2173dba999ef"),
       },
       {
         title: "Seguimiento",
@@ -79,7 +79,7 @@ export const ESP_DETALLE: Record<string, EspDetalle> = {
       U("photo-1551601651-2a8555f1a136"),
       U("photo-1505751172876-fa1923c5c528"),
       U("photo-1532938911079-1b06ac7ceec7"),
-      U("photo-1579684385127-1ef15d5081de"),
+      U("photo-1576091160550-2173dba999ef"),
     ],
     faqKey: "medicinaGeneral",
     darkTitle: "Medicina que coordina, no que fragmenta.",
@@ -271,7 +271,7 @@ export const ESP_DETALLE: Record<string, EspDetalle> = {
       {
         title: "Biopsia ambulatoria",
         desc: "Cuando el protocolo lo indica, con analgesia adecuada.",
-        img: U("photo-1579684385127-1ef15d5081de"),
+        img: U("photo-1576091160550-2173dba999ef"),
       },
       {
         title: "Educación perinatal",
@@ -283,7 +283,7 @@ export const ESP_DETALLE: Record<string, EspDetalle> = {
       U("photo-1551601651-2a8555f1a136"),
       U("photo-1573496359142-b8d87734a5a2"),
       U("photo-1584515933487-779824d29309"),
-      U("photo-1579684385127-1ef15d5081de"),
+      U("photo-1576091160550-2173dba999ef"),
     ],
     faqKey: "ginecologia",
     darkTitle: "Decisiones compartidas, siempre.",
@@ -322,7 +322,7 @@ export const ESP_DETALLE: Record<string, EspDetalle> = {
       {
         title: "Estudios focalizados",
         text: "RM, EEG o potenciales según criterio estricto.",
-        img: U("photo-1579684385127-1ef15d5081de"),
+        img: U("photo-1576091160550-2173dba999ef"),
       },
       {
         title: "Plan farmacológico prudente",
@@ -350,7 +350,7 @@ export const ESP_DETALLE: Record<string, EspDetalle> = {
     gallery: [
       U("photo-1545389336-cf090694435e"),
       U("photo-1551190822-a9333d879b1f"),
-      U("photo-1579684385127-1ef15d5081de"),
+      U("photo-1576091160550-2173dba999ef"),
       U("photo-1519494026892-80bbd2d6fd0d"),
     ],
     faqKey: "neurologia",
@@ -412,7 +412,7 @@ export const ESP_DETALLE: Record<string, EspDetalle> = {
       {
         title: "Integración médica",
         desc: "Misma historia con medicina general y endocrinología.",
-        img: U("photo-1579684385127-1ef15d5081de"),
+        img: U("photo-1576091160550-2173dba999ef"),
       },
     ],
     gallery: [

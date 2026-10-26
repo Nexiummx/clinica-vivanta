@@ -29,7 +29,7 @@ export function VivantaShell() {
         </motion.div>
       </AnimatePresence>
       <VivantaFooter />
-      <FloatingContactWidget />
+      {pathname === "/" ? null : <FloatingContactWidget />}
     </div>
   );
 }

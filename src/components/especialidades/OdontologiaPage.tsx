@@ -23,7 +23,7 @@ const STEPS = [
   {
     title: "Plan personalizado",
     text: "Simulación visual y costos por fase. Decides con información, no con presión.",
-    img: "https://images.unsplash.com/photo-1588776814546-1ffcf4724a94?auto=format&fit=crop&w=900&q=80",
+    img: "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=900&q=80",
   },
   {
     title: "Tratamiento con anestesia consciente",
@@ -201,7 +201,7 @@ export function OdontologiaPage() {
           <BeforeAfter
             title="Ortodoncia con alineadores"
             subtitle="14 meses · mordida clase I"
-            before="https://images.unsplash.com/photo-1588776814546-1ffcf4724a94?auto=format&fit=crop&w=800&q=80"
+            before="https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=800&q=80"
             after="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=800&q=80"
           />
         </div>
@@ -229,7 +229,7 @@ export function OdontologiaPage() {
               {
                 t: "Scanner 3D iTero",
                 d: "Menos moldes, mejor ajuste de alineadores y prótesis.",
-                img: "https://images.unsplash.com/photo-1579684385127-1ef15d5081de?auto=format&fit=crop&w=800&q=80",
+                img: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=800&q=80",
               },
               {
                 t: "Microscopio quirúrgico",
@@ -239,7 +239,7 @@ export function OdontologiaPage() {
               {
                 t: "CAD/CAM mismo día",
                 d: "Restauraciones provisionales y definitivas coordinadas.",
-                img: "https://images.unsplash.com/photo-1550831144-7a9207f4c18a?auto=format&fit=crop&w=800&q=80",
+                img: "https://images.unsplash.com/photo-1598256989800-fe5f95da9787?auto=format&fit=crop&w=800&q=80",
               },
             ].map((c) => (
               <div key={c.t} className="overflow-hidden rounded-2xl border border-viv-border bg-viv-surface shadow-vivSm">

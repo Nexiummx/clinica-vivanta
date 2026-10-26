@@ -8,7 +8,7 @@
     "icon": "stethoscope",
     "filtros": ["Todas", "Adultos", "Preventivo"],
     "tratamientos": ["Chequeos anuales", "Control de crónicos", "Vacunación adultos", "Certificados médicos"],
-    "imagen": "https://images.unsplash.com/photo-1579684385127-1ef15d5081de?auto=format&fit=crop&w=900&q=80",
+    "imagen": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=900&q=80",
     "doctorIds": ["d1", "d2"]
   },
   {
